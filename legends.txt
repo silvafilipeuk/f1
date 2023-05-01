@@ -1,0 +1,1 @@
+The value of the positionText attribute is either an integer (finishing position), “R” (retired), “D” (disqualified), “E” (excluded), “W” (withdrawn), “F” (failed to qualify) or “N” (not classified). A grid position value of ‘0’ indicates the driver started from the pit lane.
