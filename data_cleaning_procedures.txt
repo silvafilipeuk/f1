@@ -1,0 +1,17 @@
+15-06-2023
+
+
+circuits.xlsx:
+
+- Checked for null entries (none found)
+- Corrected special characters
+
+constructor_results.xlsx:
+
+- Checked for null entries and duplicates values (none found.)
+- Checked for entries that could be misspeled (none found.)
+
+contructor_standings.xlsx:
+
+- Checked for null entries and duplicates values (none found.)
+- Checked for entries that could be misspeled (none found.)
