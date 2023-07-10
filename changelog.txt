@@ -1,4 +1,4 @@
-15-06-2023
+------------ 15-06-2023
 
 
 circuits.xlsx:
@@ -15,3 +15,19 @@ contructor_standings.xlsx:
 
 - Checked for null entries and duplicates values (none found.)
 - Checked for entries that could be misspeled (none found.)
+
+------------ 10-07-2023
+
+constructors.xlsx:
+
+- Used conditional formating for highlight duplicate entries.
+- Created new tab with Constructors only (regardless motor used).
+
+driver_standings:
+
+- Checked for null entries. (clear)
+
+drivers.xlsx:
+
+- Checked for null entries.
+- Checked for duplicated entries on driverRef cells, using conditional formating.
